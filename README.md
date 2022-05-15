@@ -1,1 +1,1 @@
-# MY AI course project
+# MY AI course projects
